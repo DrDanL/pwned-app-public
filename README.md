@@ -1,4 +1,4 @@
-# Pwned?- Public Release
+# pwned?- Public Release
 
 Pwned? An app to allow you to search to see if your email address has been compromised, powered by [Have I Been Pwned?](https://haveibeenpwned.com/).
 
